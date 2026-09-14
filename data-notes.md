@@ -5,11 +5,11 @@
 - Features: 5,872 features, polygons
 - Key columns: ward_name, lga_name, state
 - Geometry type: Polygon
-- Notes: "no obvious gaps"
+- Notes: no obvious gaps
 
 ## School locations — OpenStreetMap
 - Source: OpenStreetMap, extracted via QuickOSM (amenity=school) — https://www.openstreetmap.org
 - Features:45
 - Key columns: name, amenity, osm_id
 - Geometry type: Point
-- Notes: "coverage looks sparse"
+- Notes: coverage looks sparse
