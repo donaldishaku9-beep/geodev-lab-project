@@ -32,4 +32,5 @@
 - Study area: Tudun Wada South, extracted from GRID3 wards
 - Ward boundary and schools layer reprojected to EPSG:32631 (UTM 31N)
 - Population raster clipped to study area (still in EPSG:4326)
-- Area check: Tudun Wada South = 15.687km²
+- Area check: Tudun Wada South = 15.687km², there is no published figure to match with
+- Working files are stored in data/processed file, while raw files are untouched.
