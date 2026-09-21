@@ -26,3 +26,10 @@
 - Notes: 100m resolution version was not available/accessible; using the 
   1km resolution product instead. Coarser than ideal for a single-ward 
   study area, but usable.
+  
+  ## CRS and preparation
+- All source layers arrived in EPSG:4326
+- Study area: Tudun Wada South, extracted from GRID3 wards
+- Ward boundary and schools layer reprojected to EPSG:32631 (UTM 31N)
+- Population raster clipped to study area (still in EPSG:4326)
+- Area check: Tudun Wada South = 15.687km²
