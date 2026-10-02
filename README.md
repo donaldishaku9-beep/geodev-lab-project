@@ -9,7 +9,7 @@ Built over twelve months with GeoDev Lab Africa, Cohort One.
 - [Week 1 — Project brief](./project-brief.md)
 - [Week 2/3 — Data notes and quality checks](./data-notes.md)
 - [Week 4 — Analysis summary](./month-1-summary.md)
-- Week 4 map: `week4_school_coverage_map.png`
+- [Week 4 map Week 4 coverage map](./week4_school_coverage_map.png)
 - Prepared data: `data/processed/`
 
 ## Key finding
