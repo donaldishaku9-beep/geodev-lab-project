@@ -15,3 +15,10 @@ Built over twelve months with GeoDev Lab Africa, Cohort One.
 ## Key finding
 13% (2.11 km², or 2.11 out of 15.69 km²) of Tudun Wada South ward falls 
 outside 1.5km of a school, based on GRID3's 47 mapped school locations.
+
+
+
+
+
+## Month 2: Preparation of environment and early python
+-Week 5: I setup python, VS code and the terminal. hello.py runs
