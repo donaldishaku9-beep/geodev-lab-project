@@ -21,5 +21,5 @@ outside 1.5km of a school, based on GRID3's 47 mapped school locations.
 
 
 ## Month 2: Preparation of environment and early python
-- Week 5: I setup python, VS code and the terminal. [hello.py](./hello.py) runs and [Python.png](./screenshot/Python.png) is the result.
-- Week 6: Set up the project with uv and added pandas. [check.py](./check.py) prints the pandas version. The result, [week6.png](./screenshot/week6.png).
+- Week 5: I setup python, VS code and the terminal. [hello.py](./hello.py) runs and [Python.png](./screenshots/Python.png) is the result.
+- Week 6: Set up the project with uv and added pandas. [check.py](./check.py) prints the pandas version. The result, [week6.png](./screenshots/week6.png).
