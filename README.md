@@ -10,7 +10,7 @@ Built over twelve months with GeoDev Lab Africa, Cohort One.
 - [Week 2/3 — Data notes and quality checks](./data-notes.md)
 - [Week 4 — Analysis summary](./month-1-summary.md)
 - [Week 4 map Week 4 coverage map](./week4_school_coverage_map.png)
-- Prepared data: [`processed/`](./processed/
+- Prepared data: [`processed/`](./processed/)
 
 ## Key finding
 13% (2.11 km², or 2.11 out of 15.69 km²) of Tudun Wada South ward falls 
