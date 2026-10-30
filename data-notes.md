@@ -39,7 +39,7 @@
 - Area check: Tudun Wada South = 15.69 km²
 - Population raster clipped to study area (still in EPSG:4326)
 - Area check: Tudun Wada South = 15.687km², there is no published figure to match with
-- Working files are stored in [processed](./proceessed) file, while raw files are untouched.
+- Working files are stored in [data/processed](./proceessed/) file, while raw files are untouched.
 
 ## Quality notes
 
