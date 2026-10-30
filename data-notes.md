@@ -15,7 +15,7 @@
 - Notes: OpenStreetMap (amenity=school) returned zero results for this ward, 
   even after broadening the query to all amenity tags — a genuine OSM mapping 
   gap in this area rather than an actual absence of schools. GRID3's POI 
-  schools dataset (UBEC-sourced) provides full coverage instead and is used 
+  schools dataset (NMIS and OSGOF-sourced) provides full coverage instead and is used 
   as the primary school data source going forward.
 
 ## Population — WorldPop
@@ -39,7 +39,7 @@
 - Area check: Tudun Wada South = 15.69 km²
 - Population raster clipped to study area (still in EPSG:4326)
 - Area check: Tudun Wada South = 15.687km², there is no published figure to match with
-- Working files are stored in data/processed file, while raw files are untouched.
+- Working files are stored in [data/processed](./proceessed) file, while raw files are untouched.
 
 ## Quality notes
 
@@ -50,7 +50,7 @@
 ### Schools
 - Completeness: 47 features within Tudun Wada South; OSM had zero for the same 
   area (mapping gap, not absence of schools)
-- Fitness for purpose: UBEC-sourced via GRID3, more authoritative than OSM here
+- Fitness for purpose: NMIS and OSGOF-sourced via GRID3, more authoritative than OSM here
 
 ### Population
 - Completeness: full raster coverage except two narrow ward slivers (see note above)
