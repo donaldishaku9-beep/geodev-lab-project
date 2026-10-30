@@ -3,7 +3,7 @@
 ## Ward boundary — Tudun Wada South
 - Source: GRID3 Operational Wards v3.0 — https://data.grid3.org
 - Features: 5,872 features
-- Key columns: ward_name, lga_name, state
+- Key columns: wardname, lganame, state
 - Geometry type: Polygon
 - Notes: no obvious gaps
   
@@ -33,13 +33,11 @@
   
   ## CRS and preparation
 - All source layers arrived in EPSG:4326
-- Study area: Tudun Wada South, extracted from GRID3 wards
-- - Ward boundary and schools layer reprojected to EPSG:32632 (UTM Zone 32N) — corrected from an initial error using zone 31N. Minna/Chanchaga sits at ~6.55°E, which falls within zone 32N's range (6°–12°E), not 31N (0°–6°E).
+- Study area: Tudun Wada South, extracted from GRID3 wards.
+- Ward boundary and schools layer reprojected to EPSG:32632 (UTM Zone 32N) — corrected from an initial error using zone 31N. Minna/Chanchaga sits at ~6.55°E, which falls within zone 32N's range (6°–12°E), not 31N (0°–6°E).
 - Population raster re-clipped and reprojected to EPSG:32632
-- Area check: Tudun Wada South = 15.69 km²
-- Population raster clipped to study area (still in EPSG:4326)
-- Area check: Tudun Wada South = 15.687km², there is no published figure to match with
-- Working files are stored in [data/processed](./processed/) file, while raw files are untouched.
+- Area check: Tudun Wada South = 15.687km², there is no published figure to match with.
+- Working files are stored in [processed/](./processed/) file, while raw files are untouched.
 
 ## Quality notes
 
