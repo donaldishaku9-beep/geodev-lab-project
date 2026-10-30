@@ -20,7 +20,7 @@ distance of at least one school.
 
 ## What surprised me
 - OpenStreetMap had zero schools mapped in this ward at all — a genuine OSM 
-  coverage gap. GRID3's POI schools dataset (UBEC-sourced) was used instead, 
+  coverage gap. GRID3's POI schools dataset (NMIS and OSGOF-sourced) was used instead, 
   and had full coverage (47 schools).
 - The population raster (1km resolution) couldn't fully resolve the ward's 
   narrow northern spike and southern tail — some slivers had no population 
