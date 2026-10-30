@@ -54,3 +54,11 @@
 - Completeness: full raster coverage except two narrow ward slivers (see note above)
 - Fitness for purpose: modeled, not measured; 1km resolution is coarse for a 
   single small ward, so results should be read as indicative, not precise
+
+## Data quality notes
+
+- Completeness: `student_ct`, `teacher_ct` and `secondary_` are empty for all 47 schools, so I could not use enrolment in the analysis.
+- Currency: 2020/12/11
+- Source: the `source` OSGOF and NMIS
+- Positional accuracy: Map inspection and a manual distance measurement.
+- Population columns: `pop_sum` and `pop_mean` were added in QGIS using zonal statistics on 1.5 km school buffers and the WorldPop raster. Where buffers overlap, people are counted more than once in `pop_sum`, so do not add the values across schools. The raster cells are 1 km, so the figures are approximate.
