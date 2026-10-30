@@ -21,7 +21,7 @@ outside 1.5km of a school, based on GRID3's 47 mapped school locations.
 
 
 ## Month 2: Preparation of environment and early python
-- Week 5: I setup python, VS code and the terminal. [hello.py](./hello.py) runs and [Python.png](./screenshots/Python.png) is the result.
+- Week 5: I setup python, VS code and the terminal. [hello.py](./hello.py) runs and [week5.png](./screenshots/week5.png) is the result.
 - Week 6: Set up the project with uv and added pandas. [check.py](./check.py) prints the pandas version. The result, [week6.png](./screenshots/week6.png).
 - Week 7: [analyse.py](./analyse.py) reads [wards.csv](./wards.csv), converts each area and classifies each ward. The result, [week7.png](./screenshots/week7.png).
 - Week 8: [inspect_data.py](./inspect_data.py) reads [mydata.csv](./mydata.csv) and summarises `pop_sum` and `pop_mean`, the WorldPop population within 1.5 km of each of my 47 schools. The enrolment columns were empty, so I added these in QGIS. [week8.png](./screenshots/week8.png)
