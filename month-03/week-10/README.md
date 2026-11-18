@@ -10,6 +10,8 @@
 - [make_map.py](./make_map.py): draws [facilities_map.png](./facilities_map.png)
 - [save_outputs.py](./save_outputs.py): saves a GeoPackage layer and [wards_table.csv](./wards_table.csv)
 - [my_explore.py](./my_explore.py): runs the layer checklist on my Minna schools layer
+- [my_points.py](./my_points.py): turns my school coordinates from [schools_xy.csv](../../data/raw/schools_xy.csv) into points and plots them over my ward as [my_points_check.png](./my_points_check.png)
+- [my_join.py](./my_join.py): joins population to my 47 schools on `uniq_id` and prints the match counts
 
 ## How to run it
 From the repository root:
