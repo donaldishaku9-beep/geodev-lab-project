@@ -30,3 +30,9 @@ outside 1.5km of a school, based on GRID3's 47 mapped school locations.
 
 What finally clicked this month was debugging by looking at the real data. When my script crashed on `student_ct`, I counted the filled cells in every column and found that `student_ct`, `teacher_ct` and `secondary_` were empty for all 47 schools, so the problem was my data and not my code. What is still fuzzy is `encoding="utf-8-sig"`: I know it removes a hidden marker that causes a KeyError on the first column, but I don't fully understand where that marker comes from. My capstone shows that the population within about 1.5 km of a school ranges from roughly 10,800 to roughly 59,700 people (average [35293.79102526495]), so the number of people near each school varies a lot, and the empty enrolment columns mean I can't yet say how many pupils each school has.
 Weeks 8 and 9 run on my Month 1 data: [mydata.csv](./mydata.csv) is my GRID3 schools layer for Tudun Wada South ward, with the two population columns I added in QGIS, so the Python scripts summarise the same 47 schools I mapped in Month 1.
+
+
+
+
+## Month 3: Geospatial Python and automation
+- Week 10: GeoPandas. Loaded, checked, joined and mapped my schools layer in code.
