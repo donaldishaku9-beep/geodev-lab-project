@@ -1,4 +1,5 @@
 # Data notes
+CRS for measuring: EPSG:32632 (WGS 84 / UTM zone 32N), because Minna is at about 6.5°E.
 
 ## Ward boundary — Tudun Wada South
 - Source: GRID3 Operational Wards v3.0 — https://data.grid3.org
