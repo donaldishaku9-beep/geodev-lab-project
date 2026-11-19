@@ -36,3 +36,4 @@ Weeks 8 and 9 run on my Month 1 data: [mydata.csv](./mydata.csv) is my GRID3 sch
 
 ## Month 3: Geospatial Python and automation
 - Week 10: GeoPandas. Loaded, checked, joined and mapped my schools layer in code.
+- Week 11: CRS and spatial operations. Reprojected to EPSG:32632 and measured school counts per 1 km cell and the share of my ward beyond 1.5 km of a school.
